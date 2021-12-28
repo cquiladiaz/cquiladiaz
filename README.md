@@ -1,4 +1,4 @@
-## Hi! Soy Christian,🤙🏻 mejor dime Cquila o solamente Quila.
+## Hola! Soy Christian,🤙🏻 mejor dime Cquila o solamente Quila.
 
 ### Estoy estudiando mucho para tener mi primer empleo en Tech.
 
