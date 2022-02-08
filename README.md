@@ -10,7 +10,7 @@ Actualmente estoy estudiando✏:
 
 Y quiero seguir con:
 
-- JavaScrip.
+- JavaScript.
 - More English hahaha.
 
 Me gusta el espacio🔭, la tecnología 💾, los animales y la naturaleza en general 🌱🏕🐠🐶 (menos los mosquitos).
