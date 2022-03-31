@@ -2,17 +2,6 @@
 
 ### Estoy estudiando mucho para tener mi primer empleo en Tech.
 
-Actualmente estoy estudiando✏:
-
-- HTML.
-- CSS.
-- English.
-
-Y quiero seguir con:
-
-- JavaScript.
-- More English hahaha.
-
 Me gusta el espacio🔭, la tecnología 💾, los animales y la naturaleza en general 🌱🏕🐠🐶 (menos los mosquitos).
 
 #### Me estoy formando en Platzi 💚 
