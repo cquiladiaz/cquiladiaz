@@ -1,6 +1,6 @@
 ## Hola! Soy Christian,🤙🏻 mejor dime Cquila o solamente Quila.
 
-### Estoy estudiando mucho para tener mi primer empleo en Tech.
+### Estoy estudiando desarrollo de Software.
 
 Me gusta el espacio🔭, la tecnología 💾, los animales y la naturaleza en general 🌱🏕🐠🐶 (menos los mosquitos).
 
