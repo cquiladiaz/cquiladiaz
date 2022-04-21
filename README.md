@@ -2,6 +2,18 @@
 
 ### Estoy estudiando desarrollo de Software.
 
+Acá encontrarás proyectos con:
+
+- HTML5
+- CSS3
+- JavaScript
+
+### Quiero seguir con:
+
+-React 
+-Angular
+-SASS
+
 Me gusta el espacio🔭, la tecnología 💾, los animales y la naturaleza en general 🌱🏕🐠🐶 (menos los mosquitos).
 
 #### Me estoy formando en Platzi 💚 
