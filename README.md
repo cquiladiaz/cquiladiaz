@@ -10,9 +10,9 @@ Acá encontrarás proyectos con:
 
 ### Quiero seguir con:
 
--React 
--Angular
--SASS
+- React 
+- Angular
+- SASS
 
 Me gusta el espacio🔭, la tecnología 💾, los animales y la naturaleza en general 🌱🏕🐠🐶 (menos los mosquitos).
 
