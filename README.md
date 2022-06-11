@@ -6,7 +6,7 @@ I’m currently learning:
 
 - JavaScript
 - SASS
-
+- English
 
 Follow me if you want:
 - [Instagram](https://www.instagram.com/cquiladiaz/?hl=es).
