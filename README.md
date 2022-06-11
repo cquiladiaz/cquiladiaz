@@ -1,28 +1,18 @@
-## Hola! Soy Christian,🤙🏻 mejor dime Cquila o solamente Quila.
+## Hi!
 
-### Estoy estudiando desarrollo de Software.
+I am Christian a Software Developer and Civil Engineering Student. I really enjoy learning new things every day and applying them to web development. 
 
-Acá encontrarás proyectos con:
+I’m currently learning:
 
-- HTML5
-- CSS3
 - JavaScript
-
-### Quiero seguir con:
-
-- React 
-- Angular
 - SASS
 
-Me gusta el espacio🔭, la tecnología 💾, los animales y la naturaleza en general 🌱🏕🐠🐶 (menos los mosquitos).
 
-#### Me estoy formando en Platzi 💚 
-
-Te dejo mis redes por si quieres seguirme:
+Follow me if you want:
 - [Instagram](https://www.instagram.com/cquiladiaz/?hl=es).
 - [Twitter](https://twitter.com/cquiladiaz). 
 
-💚Nunca pares de aprender💚
+💚Never stop learning💚
 
 <!--
 **cquiladiaz/cquiladiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
