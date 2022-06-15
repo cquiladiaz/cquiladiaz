@@ -14,14 +14,19 @@ I’m currently learning:
 </p>
 
 ## My stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cquiladiaz&layout=compact&theme=radical)](https://github.com/cquiladiaz/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cquiladiaz&theme=radical&show_icons=true)
 
 
-Follow me if you want:
+
+## Follow me if you want:
 - [Instagram](https://www.instagram.com/cquiladiaz/?hl=es).
 - [Twitter](https://twitter.com/cquiladiaz). 
 
-💚Never stop learning💚
-
+<p align = "center"> 
+  💚 Never stop learning 💚
+</p>
 <!--
 **cquiladiaz/cquiladiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
