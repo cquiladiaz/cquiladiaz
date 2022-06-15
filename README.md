@@ -14,11 +14,9 @@ I’m currently learning:
 </p>
 
 ## My stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cquiladiaz&layout=compact&theme=radical)](https://github.com/cquiladiaz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cquiladiaz&layout=compact&theme=dark)](https://github.com/cquiladiaz/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cquiladiaz&theme=radical&show_icons=true)
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cquiladiaz&theme=dark&show_icons=true&hide=contribs,issues&icon_color=4070F4)
 
 ## Follow me if you want:
 - [Instagram](https://www.instagram.com/cquiladiaz/?hl=es).
